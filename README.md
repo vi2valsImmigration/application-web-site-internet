@@ -1,3 +1,5 @@
+# <img src="https://github.com/vi2valsImmigration/vi2valsImmigration/blob/main/logo.jpg" alt="Vi2vals Immigration Logo" width="200"/>
+
 # 👋 Bienvenue sur le dépôt GitHub de Vi2vals Immigration Inc.
 
 Vi2vals Immigration Inc. est une entreprise de droit canadien spécialisée dans le domaine de l’immigration. Nous accompagnons les individus et les entreprises dans toutes les démarches liées à l’immigration au Canada, tout en offrant des services professionnels à des coûts abordables.
