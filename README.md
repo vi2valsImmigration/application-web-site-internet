@@ -1,4 +1,6 @@
-# <img src="https://github.com/vi2valsImmigration/vi2valsImmigration/blob/main/logo.jpg" alt="Vi2vals Immigration Logo" width="200"/>
+<p align="center">
+  <img src="https://github.com/vi2valsImmigration/vi2valsImmigration/blob/main/logo.jpg" alt="Vi2vals Immigration Logo" width="200"/>
+</p>
 
 # 👋 Bienvenue sur le dépôt GitHub de Vi2vals Immigration Inc.
 
