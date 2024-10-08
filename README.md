@@ -19,36 +19,21 @@ Nous nous engageons à fournir des services intégrés à moindre coût, par des
 
 ### Pour les particuliers
 - **Visiteurs**  
-  Les étrangers de certains pays qui souhaitent visiter le Canada pourraient avoir besoin de faire une demande de visa pour entrer...
-
 - **Étudiants**  
-  Depuis des décennies, le Canada accueille chaque année des milliers d’étudiants internationaux à travers le monde...
-
 - **Travailleurs**  
-  En général, la majorité des gens auront besoin d’un permis de travail pour travailler au Canada de façon temporaire...
-
 - **Immigration permanente**  
-  Il existe une multitude de voies d’accès à la résidence permanente que l’on soit au Canada ou...
-
 - **Citoyenneté**  
-  La citoyenneté canadienne est un statut qui comporte des droits...
-
 - **Surmonter son inadmissibilité**  
-  Certaines situations liées à la criminalité, la santé, etc...
-
 - **Installation et Intégration**  
-  Le processus d’immigration ne se limitant pas uniquement à...
-
-- **Assermentation de documents**  
-  Vous pourriez être demandé de faire assermenter un certain...
-
+- **Assermentation de documents**
+  
 ### Pour les entreprises
 - **Recrutement à l’international**
 - **Procédures d'immigration**
 - **Installation et Intégration**
 
 ## 🌱 Ce que nous apprenons actuellement
-Nous nous engageons dans une démarche continue d'amélioration et d'apprentissage dans les domaines du droit de l’immigration, des ressources humaines, et des technologies pour mieux répondre aux besoins de nos clients.
+Nous nous engageons dans une démarche continue d'amélioration et d'apprentissage dans les domaines du droit de l’immigration.
 
 ## 💞️ Collaborer avec nous
 Nous encourageons la collaboration avec des experts de différents secteurs, et nous sommes ouverts à travailler ensemble sur des projets touchant à l’immigration, la diversité, l’intégration, et les droits des immigrants.
@@ -57,7 +42,9 @@ Nous encourageons la collaboration avec des experts de différents secteurs, et 
 Pour tous les contributeurs souhaitant travailler sur ce dépôt, veuillez suivre les règles suivantes :
 
 1. **Forker ce dépôt** : Avant de proposer des modifications, forkez ce dépôt pour travailler sur votre propre copie.
-2. **Créer une branche dédiée** : Créez une nouvelle branche pour chaque nouvelle fonctionnalité ou amélioration (`feature/nom_de_la_fonctionnalité`).
+2. **Créer une branche dédiée** :
+   - Pour une nouvelle fonctionnalité ou amélioration, utilisez le format `feature/nom_de_la_fonctionnalité`.
+   - Pour la correction d’un bug, utilisez le format `bugFix/nom_du_bug`.
 3. **Proposer une Pull Request (PR)** : Une fois votre travail terminé, soumettez une pull request. Assurez-vous de fournir une description détaillée des modifications apportées et leur justification.
 4. **Tests et validation** : Avant de soumettre une PR, testez bien votre code pour garantir sa stabilité.
 5. **Code Review** : La code review est effectuée si nécessaire, pour assurer la qualité et la cohérence du projet.
@@ -73,4 +60,3 @@ Nous utilisons les pronoms : il/lui
 
 ## ⚡ Fun Fact
 Nous croyons fermement que chaque projet d’immigration est une aventure unique et que chaque individu a quelque chose d’unique à apporter au Canada.
-
